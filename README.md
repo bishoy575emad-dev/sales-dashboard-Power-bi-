@@ -1,5 +1,4 @@
 # Sales Analytics Dashboard – Power BI
-
 An interactive 3-page Power BI dashboard built on Adventure Works data, covering sales performance, customer behavior, and product analytics.
 
 ---
@@ -36,4 +35,11 @@ Adventure Works – Microsoft sample dataset
 
 ## Dashboard Preview
 
-*(Add screenshots here)*
+### Sales Overview
+![Sales Overview](Screenshot%202026-05-05%20122758.png)
+
+### Customer Insights
+![Customer Insights](Screenshot%202026-05-05%20122817.png)
+
+### Product Analytics
+![Product Analytics](Screenshot%202026-05-05%20122831.png)
